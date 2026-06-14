@@ -1,5 +1,4 @@
-## Hi there! <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="60"/>
+## Hi there!<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="40"/>
 </p>
 
 <!--
