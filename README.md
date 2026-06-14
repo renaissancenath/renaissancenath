@@ -1,4 +1,6 @@
-## Hi there ![AI](https://media.giphy.com/media/somegif.gif)
+## Hi there! <p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="200"/>
+</p>
 
 <!--
 **renaissancenath/renaissancenath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
