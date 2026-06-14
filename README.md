@@ -1,18 +1,23 @@
 ## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
 </p>
+<sub>I'm Renaissance Nath, a final-year B.Tech student in Artificial Intelligence & Data Science 🤖📊</sub>
 
-I'm Renaissance Nath, a final-year B.Tech student in Artificial Intelligence & Data Science 🤖📊
+<sub>I build machine learning systems and AI applications, mainly focused on turning ideas into real working projects.</sub>
 
-I build machine learning systems and AI applications, mostly because I like turning ideas into something real that actually works.
+<sub>I’ve worked on AI agents, RAG-based systems, and predictive models using Python and modern ML frameworks.</sub>
 
-I’ve worked on projects involving AI agents, RAG-based systems, and predictive models using Python and modern ML frameworks. I enjoy figuring out how to make systems smarter, more structured, and actually useful in practice.
+<sub>My main stack is Python, Machine Learning, Deep Learning, NLP, PyTorch, TensorFlow, and FastAPI.</sub>
 
-My main stack is Python, machine learning, deep learning, NLP, and tools like PyTorch, TensorFlow, and FastAPI.
+---
 
-Outside of tech, I’m into anime, manga, manhwa, web novels, and games 📚🎮  
-My favorite web novel is *Omniscient Reader’s Viewpoint (ORV)*. I also enjoy anime like JJK, Demon Slayer, One Piece, Ghibli films, and Silent Voice, and games like Resident Evil, Genshin Impact, and Roblox.
+<sub>Outside of tech, I’m into anime, manga, manhwa, web novels, and games 📚🎮</sub>  
+<sub>Favorite web novel: Omniscient Reader’s Viewpoint (ORV)</sub>
 
-A lot of my ideas come from these worlds — I usually just think of something and end up building it.
+<sub>I enjoy JJK, Demon Slayer, One Piece, Ghibli films, Silent Voice, and games like Resident Evil, Genshin Impact, and Roblox.</sub>
+
+<sub>Most of my ideas come from these worlds — I usually just think of something and build it.</sub>
+
+---
 
 Let’s connect 🚀
 
