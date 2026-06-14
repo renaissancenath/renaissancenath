@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=AI+%2F+ML+Learner;Data+Science+Enthusiast;Building+cool+projects)](https://git.io/typing-svg)
 <!--
 **renaissancenath/renaissancenath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
