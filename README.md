@@ -12,7 +12,7 @@ When I'm not building, you'll probably find me reading, watching anime, gaming, 
 
 Let's connect! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renaissance%20Nath-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renaissance-nath-7282a3284/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaissance-nath-7282a3284/)
 
 
 
