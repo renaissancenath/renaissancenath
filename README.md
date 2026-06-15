@@ -12,7 +12,7 @@ When I'm not building, you'll probably find me reading, watching anime, gaming, 
 
 Let's connect! 🚀
 
-[LinkedIn](https://www.linkedin.com/in/renaissance-nath-7282a3284/) 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/renaissance-nath-7282a3284/)
 
 
 <!--
