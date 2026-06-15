@@ -1,25 +1,19 @@
-## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
-</p>
-<sub>I'm Renaissance Nath, a final-year B.Tech student in Artificial Intelligence & Data Science 🤖📊</sub>
+## Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<sub>I build machine learning systems and AI applications, mainly focused on turning ideas into real working projects.</sub>
+I'm Renaissance, a final-year Artificial Intelligence & Data Science student.
 
-<sub>I’ve worked on AI agents, RAG-based systems, and predictive models using Python and modern ML frameworks.</sub>
+I build AI and data-driven applications. My work focuses on machine learning, deep learning, data science, and intelligent systems using Python and modern ML frameworks.
 
-<sub>My main stack is Python, Machine Learning, Deep Learning, NLP, PyTorch, TensorFlow, and FastAPI.</sub>
+I'm curious about how complex systems work and enjoy turning ideas into projects. Most of what I build starts with a simple question: "What if I tried this?"
 
----
+Outside of tech, I enjoy creating things. Sometimes that's a small game, sometimes digital art, and sometimes a random storyline that sounded interesting enough to explore.
 
-<sub>Outside of tech, I’m into anime, manga, manhwa, web novels, and games 📚🎮</sub>  
-<sub>Favorite web novel: Omniscient Reader’s Viewpoint (ORV)</sub>
+When I'm not building, you'll probably find me reading, watching anime, gaming, or collecting ideas for the next project.
 
-<sub>I enjoy JJK, Demon Slayer, One Piece, Ghibli films, Silent Voice, and games like Resident Evil, Genshin Impact, and Roblox.</sub>
+Let's connect! 🚀
 
-<sub>Most of my ideas come from these worlds — I usually just think of something and build it.</sub>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/renaissance-nath-7282a3284/)
 
----
-
-Let’s connect 🚀
 
 <!--
 **renaissancenath/renaissancenath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
