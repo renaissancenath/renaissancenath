@@ -11,7 +11,8 @@ Outside of tech, I enjoy creating things. Sometimes that's a small game, sometim
 When I'm not building, you'll probably find me reading, watching anime, gaming, or collecting ideas for the next project.
 
 Let's connect! 🚀
-📫 LinkedIn: linkedin.com/in/renaissance-nath-7282a3284
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Renaissance%20Nath-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renaissance-nath-7282a3284/)
 
 
 
