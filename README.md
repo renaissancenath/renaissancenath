@@ -10,10 +10,11 @@ Outside of tech, I enjoy creating things. Sometimes that's a small game, sometim
 
 When I'm not building, you'll probably find me reading, watching anime, gaming, or collecting ideas for the next project.
 
-Let's connect! 🚀
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renaissance-nath-7282a3284/)
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renaissancenath@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=renaissancenath&style=for-the-badge&color=00b8ff&label=VIEWS)
 
 
 <!--
